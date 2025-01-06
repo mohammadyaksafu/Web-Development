@@ -1,0 +1,61 @@
+Block element 
+Takes up the full width available 
+start from new line 
+-Heading 
+-Paragraph
+
+
+Inline 
+Takes up only necessary widthDon't start from new line 
+-img
+-anchor
+
+div
+div is a container used to hold other HTML  
+elements or group together 
+
+span
+Span is also a generic container used to hold other HTML elements or group elements together . It is an Inline element 
+
+hr 
+Give an horizontal line 
+
+sub & sup
+sup -> upper 
+sub -> lower 
+
+
+Semantic Markup 
+-h1
+-p
+-image 
+-header 
+
+-meaningfull
+-SEO frindly 
+-readable 
+-UI /User experience better 
+
+non semantic 
+-div
+-span
+-section
+
+HTML Entities 
+An html entity is piece of text that begins  with &  and ends with semicolon
+-&nbsp
+-&lt
+-&gt
+-&amp
+-&quote 
+used to diplay reserved charecter and invisible charecter 
+
+can also use in place of charecters that are difficult to type with a standard keyboard
+
+The term HTML5 is essentially a buzzword that referes to a set of modern web technologies. This include the HTML living Standard , along with JS APIS to enhance storage , multimedia and hadware access 
+-new feature / upgrade 
+-other part not part of html 
+
+HTML Standard  
+
+A beginners guide to HTML-5 
